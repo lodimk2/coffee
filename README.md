@@ -4,7 +4,7 @@ The inference of gene regulatory networks (GRNs) is crucial to understanding the
 
 ## Installation Requirements
 
-COFFEE has been tested on Python 3.8.8, and consists of a singular Python script, titled . We recommend using a Python Virtual Environment, and installing the dependenceis from the corresponding requirements.txt file found in this repository. 
+COFFEE has been tested on Python 3.8.8, and consists of a singular Python script, titled `coffee_consensus.py`. We recommend using a Python Virtual Environment, and installing the dependenceis from the corresponding requirements.txt file found in this repository. 
 
 ## Usage 
 

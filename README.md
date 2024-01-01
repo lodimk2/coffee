@@ -4,7 +4,7 @@ The inference of gene regulatory networks (GRNs) is crucial to understanding the
 
 ## Installation Requirements
 
-COFFEE has been tested on Python 3.8.8, and consists of a singular Python script, titled `coffee_consensus.py`. We recommend using a Python Virtual Environment, and installing the dependenceis from the corresponding requirements.txt file found in this repository. 
+COFFEE has been tested on Python 3.8.8, and consists of a singular Python script, titled `coffee_consensus.py`. We recommend using a Python Virtual Environment, and installing the dependencies from the corresponding `requirements.txt` file found in this repository. 
 
 ## Usage 
 
@@ -14,7 +14,7 @@ For output, the coffee script will create a directory and place the consensus ed
 
 ## Example
 
-To test COFFEE, we provide a network from a Synthetic Dataset provided by BEELINE, in the directory titled "example_networks" (Pratapa et al. 2020). Before running COFFEE please ensure all of the requirements are met. To make sure COFFEE is able to run on your system, try the following command using the example data provided. 
+To test COFFEE, we provide a network from a Synthetic Dataset provided by BEELINE, in the directory titled `example_networks` (Pratapa et al. 2020). Before running COFFEE please ensure all of the requirements are met. To make sure COFFEE is able to run on your system, try the following command using the example data provided. 
 
 `python coffee_consensus.py example_networks 0.65 {output_dir}`
 

@@ -36,5 +36,17 @@ To test the Cell-Type specific version of COFFEE, we provide a dataset of cell-t
 
 ## Citation
 
-Please cite the following manuscript: {LINK MANUSCRIPT HERE ONCE ON BIORXIV}
+Please cite the following manuscript: 
+`@article {Lodi2024.01.05.574445,
+	author = {Musaddiq K Lodi and Anna Chernikov and Preetam Ghosh},
+	title = {COFFEE: Consensus Single Cell-Type Specific Inference for Gene Regulatory Networks},
+	elocation-id = {2024.01.05.574445},
+	year = {2024},
+	doi = {10.1101/2024.01.05.574445},
+	publisher = {Cold Spring Harbor Laboratory},
+	abstract = {The inference of gene regulatory networks (GRNs) is crucial to understanding the regulatory mechanisms that govern biological processes. GRNs may be represented as edges in a graph, and hence have been inferred computationally for scRNA-seq data. A wisdom of crowds approach to integrate edges from several GRNs to create one composite GRN has demonstrated improved performance when compared to individual algorithm implementations on bulk RNA-seq and microarray data. In an effort to extend this approach to scRNA-seq data, we present COFFEE (COnsensus single cell-type speciFic inFerence for gEnE regulatory networks), a Borda voting based consensus algorithm that integrates information from 10 established GRN inference methods. We conclude that COFFEE has improved performance across synthetic, curated and experimental datasets when compared to baseline methods. Additionally, we show that a modified version of COFFEE can be leveraged to improve performance on newer cell-type specific GRN inference methods. Overall, our results demonstrate that consensus based methods with pertinent modifications continue to be valuable for GRN inference at the single cell level.Competing Interest StatementThe authors have declared no competing interest.},
+	URL = {https://www.biorxiv.org/content/early/2024/01/08/2024.01.05.574445},
+	eprint = {https://www.biorxiv.org/content/early/2024/01/08/2024.01.05.574445.full.pdf},
+	journal = {bioRxiv}
+}`
 

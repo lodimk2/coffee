@@ -52,3 +52,7 @@ Please cite the following manuscript:
 }
 ```
 
+COFFEE: Consensus Single Cell-Type Specific Inference for Gene Regulatory Networks
+Musaddiq K Lodi, Anna Chernikov, Preetam Ghosh
+bioRxiv 2024.01.05.574445; doi: https://doi.org/10.1101/2024.01.05.574445
+

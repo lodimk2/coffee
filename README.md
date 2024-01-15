@@ -37,7 +37,8 @@ To test the Cell-Type specific version of COFFEE, we provide a dataset of cell-t
 ## Citation
 
 Please cite the following manuscript: 
-`@article {Lodi2024.01.05.574445,
+```markdown
+@article {Lodi2024.01.05.574445,
 	author = {Musaddiq K Lodi and Anna Chernikov and Preetam Ghosh},
 	title = {COFFEE: Consensus Single Cell-Type Specific Inference for Gene Regulatory Networks},
 	elocation-id = {2024.01.05.574445},
@@ -48,5 +49,6 @@ Please cite the following manuscript:
 	URL = {https://www.biorxiv.org/content/early/2024/01/08/2024.01.05.574445},
 	eprint = {https://www.biorxiv.org/content/early/2024/01/08/2024.01.05.574445.full.pdf},
 	journal = {bioRxiv}
-}`
+}
+```
 
